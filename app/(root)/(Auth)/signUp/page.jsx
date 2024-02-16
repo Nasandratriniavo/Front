@@ -1,4 +1,4 @@
-import Inscrire from "@/app/components/Auth/inscrire";
+import Inscrire from "/app/components/Auth/inscrire";
 import React from "react";
 
 export default function page() {

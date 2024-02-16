@@ -1,9 +1,9 @@
 "use client";
-import styles from "@/styles/auth/login.module.css";
+import styles from "/styles/auth/login.module.css";
 import React, { useState } from "react";
 import Image from "next/image";
-import imginscrire from "@/assets/images/pretty.png";
-import imgconnecter from "@/assets/images/cool.png";
+import imginscrire from "/assets/images/pretty.png";
+import imgconnecter from "/assets/images/cool.png";
 import Link from "next/link";
 
 export default function Inscrire() {

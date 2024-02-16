@@ -1,7 +1,7 @@
 "use client";
-import styles from "@/styles/auth/login.module.css";
+import styles from "/styles/auth/login.module.css";
 import Link from "next/link";
-import imgconnecter from "@/assets/images/cool.png";
+import imgconnecter from "/assets/images/cool.png";
 import googleIcon from "./../../../assets/images/300221.png";
 import React, { useState } from "react";
 import Image from "next/image";
