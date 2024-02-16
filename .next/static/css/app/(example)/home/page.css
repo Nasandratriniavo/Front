@@ -1,0 +1,19 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./app/(example)/home/home.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.home_home__Cjtac {
+    height: 100vh;
+    width: 100%;
+    position:  relative;
+    background-color: #003153;
+    color: white;
+}
+
+.home_home__Cjtac span {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    font-size: 3rem;
+}
+
