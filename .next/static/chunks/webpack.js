@@ -169,7 +169,7 @@
 /******/ 		// This function allow to reference all chunks
 /******/ 		__webpack_require__.miniCssF = function(chunkId) {
 /******/ 			// return url for filenames based on template
-/******/ 			return undefined;
+/******/ 			return "static/css/" + chunkId + ".css";
 /******/ 		};
 /******/ 	}();
 /******/ 	
@@ -180,7 +180,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "354c99ee65786db6"; }
+/******/ 		__webpack_require__.h = function() { return "36b7ad7357036737"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */

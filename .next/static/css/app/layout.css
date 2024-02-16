@@ -12,7 +12,7 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     scroll-behavior: smooth;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 :root {
@@ -28,11 +28,6 @@
     --shadow-3: 0px 8px 16px -2px rgba(0, 0, 0, 0.075);
     --shadow-2: 0px 3px 6px 0px rgba(140, 149, 159, 0.15);
     --shadow-4: 0 7px 30px -10px rgba(150, 170, 180, 0.5);
-}
-
-body {
-    width: 100vw;
-    height: 100vh;
 }
 
 /* ************ BREAK POINT ************ */
