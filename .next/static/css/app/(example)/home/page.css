@@ -17,3 +17,111 @@
     font-size: 3rem;
 }
 
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./app/components/chat-bot.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.chat-bot_chatBotContainer__Gcoqy {
+    width: 20rem;
+    height: 30rem;
+    background-color: rgb(230, 230, 214);
+    position: absolute;
+    right: 2rem;
+    bottom: 2rem;
+    border-radius: 1rem;
+    display: grid;
+    grid-template-rows: 3.5rem auto 3.5rem;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div {
+
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(1), .chat-bot_chatBotContainer__Gcoqy > div:nth-child(3) {
+    display: flex;
+    align-items: center;
+    padding: 0 .7rem;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(1) {
+    box-shadow:var(--shadow);
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(3) {
+    justify-content: space-between;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(1) img {
+    width: 2.5rem;
+    height: auto;
+    border-radius: 100%;
+    margin-right: .5rem;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(3) img:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.211);
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(3) img {
+    width: 2.4rem;
+    height: auto;
+    border-radius: 100%;
+    padding: .3rem;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(2) > div {
+    position: relative;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    width:100%;
+    padding:0 10px;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(2) {
+    overflow-y: scroll;
+}
+
+.chat-bot_chatBotContainer__Gcoqy > div:nth-child(1) p {
+    color: var(--text);
+    position: relative;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.chat-bot_chatBotContainer__Gcoqy input {
+    width: 16rem;
+    height:2.5rem;
+    outline: none;
+    border: none;
+    padding: 0 15px;
+    font-size: .8rem;
+    border-radius: 1rem;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./app/components/message.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.message_message__QSOYf {
+    position: relative; 
+    margin: 5px 0; 
+    color: rgb(60, 59, 59)!important;
+    min-width: 10rem;
+    width: auto;
+    display: flex;
+}
+
+.message_message__QSOYf > div {
+    display: inline;
+    background-color: rgb(174, 212, 199);
+    padding: 7px;
+    font-size: .8rem;
+    border-radius: 1rem;
+    max-width: 12rem;
+}
+
+.message_message__QSOYf img {
+    width: 2rem;
+    height: auto;
+    border-radius: 100%;
+    margin-right: .5rem;
+}

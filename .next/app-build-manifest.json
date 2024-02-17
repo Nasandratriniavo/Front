@@ -11,12 +11,6 @@
       "static/chunks/main-app.js",
       "static/css/app/(example)/home/page.css",
       "static/chunks/app/(example)/home/page.js"
-    ],
-    "/(root)/(Auth)/login/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(root)/(Auth)/login/page.css",
-      "static/chunks/app/(root)/(Auth)/login/page.js"
     ]
   }
 }

@@ -1,0 +1,24 @@
+.message {
+    position: relative; 
+    margin: 5px 0; 
+    color: rgb(60, 59, 59)!important;
+    min-width: 10rem;
+    width: auto;
+    display: flex;
+}
+
+.message > div {
+    display: inline;
+    background-color: rgb(174, 212, 199);
+    padding: 7px;
+    font-size: .8rem;
+    border-radius: 1rem;
+    max-width: 12rem;
+}
+
+.message img {
+    width: 2rem;
+    height: auto;
+    border-radius: 100%;
+    margin-right: .5rem;
+}
